@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<!-- Copyright © 1991-2016 Unicode, Inc.
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+For terms of use, see http://www.unicode.org/copyright.html
+-->
+<ldml>
+	<identity>
+		<version number="$Revision: 12308 $"/>
+		<language type="la"/>
+	</identity>
+	<localeDisplayNames>
+		<languages>
+			<language type="la">latinus</language>
+		</languages>
+		<scripts>
+			<script type="Latn" draft="provisional">latinus</script>
+		</scripts>
+		<territories>
+			<territory type="VA" draft="unconfirmed">Vaticanus</territory>
+		</territories>
+	</localeDisplayNames>
+	<characters>
+		<exemplarCharacters>a á æ ǽ b c d e é f g h i í j k l m n o ó œ œ́ p q r s t u ú v x y ý z</exemplarCharacters>
+		<exemplarCharacters type="index">[a b c d e f g h i j k l m n o p q r s t u v x y z]</exemplarCharacters>
+		<exemplarCharacters type="auxiliary">[ä ă ā ë ĕ ē ï ĭ ī ñ ö ŏ ō ü ŭ ū ÿ ў ȳ]</exemplarCharacters>
+		<exemplarCharacters type="punctuation">[\- ‐ – — , ; \: ! ? . … ’ &quot; “ ” « » ( ) \[ \] § @ * / \&amp; # † ‡]</exemplarCharacters>
+	</characters>
+	<posix>
+		<messages>
+			<yesstr>ita:i</yesstr>
+			<nostr>non:n</nostr>
+		</messages>
+	</posix>
+</ldml>
+
